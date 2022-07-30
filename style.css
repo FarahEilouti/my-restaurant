@@ -1,0 +1,40 @@
+h1{
+    background-color: rgb(244, 229, 229);
+     
+    color: #009;
+    font-size: 3em;
+    margin-bottom: .3em;
+    text-align: center;
+    
+  
+}
+body {
+    margin: auto;
+    width: 640px; 
+    padding: 50px;
+    font-family: 'Avenir', sans-serif; 
+    color: #1620e3;    
+    background-color:rgb(254, 231, 231);
+  }
+
+  li{
+    padding-left: .5em;
+    padding-right: .5em;
+    border: 1px solid rgb(248, 245, 245);
+    background-color: rgb(238, 220, 218);
+  }
+
+  header{
+    text-align: center;
+    font-size: 1em;
+    color: rgb(22, 54, 128);
+    margin-bottom: .3em;
+  }
+
+  main{
+    font-size: 1em;
+    color: rgb(235, 45, 7);
+    margin-bottom: .3em;
+  }
+
+  
